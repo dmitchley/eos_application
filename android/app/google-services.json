@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "728955543954",
+    "project_id": "eos-dance-studio",
+    "storage_bucket": "eos-dance-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728955543954:android:eb70fe485a2a88ffef614b",
+        "android_client_info": {
+          "package_name": "com.eosdanceschool.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728955543954-qkoqk4g4f7ifhqfna0hbhua49765p1gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDapf7JgqID2vqzEWqj7pwf8mZSoBS0IuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728955543954-qkoqk4g4f7ifhqfna0hbhua49765p1gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728955543954-1477dn0mouehjuijb5tnphq46ccsn2no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eosdanceschool.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
